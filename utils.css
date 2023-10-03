@@ -1,0 +1,18 @@
+.fade{
+    background-color: black;
+}
+
+.error{
+    color: red;
+}
+#data{
+    max-height: max-content;
+    font-size: 17px;
+    font-weight: 800;
+    overflow: auto;
+}
+#success{
+    font-size: 12px;
+    color: green;
+    font-weight: 600;
+}
